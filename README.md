@@ -62,11 +62,17 @@ Posteriormente os programas desenvolvidos serão paralelizados, nos trechos apon
 
 # REFERÊNCIAS:
 
-AMD. Processadores AMD Ryzen Threadripper. Disponível em: https://www.amd.com/pt/products/ryzen-threadripper. Acesso em: 27/04/2019.
-DORNELLES, E. et al. Um estudo comparativo de desempenho utilizando programação sequencial VS paralela aplicado em Algoritmos Genéticos. Salão do Conhecimento, [S.l.], ago. 2014. ISSN 2318-2385. Disponível em: <https://www.publicacoeseventos.unijui.edu. br/index.php/salaoconhecimento/article/view/3409>. Acesso em: 30/04/2019.
+AMD. Processadores AMD Ryzen Threadripper. Disponível em: <a href="https://www.amd.com/pt/products/ryzen-threadripper">AMD Ryzen Threadripper</a>. Acesso em: 27/04/2019.<br>
+
+DORNELLES, E. et al. Um estudo comparativo de desempenho utilizando programação sequencial VS paralela aplicado em Algoritmos Genéticos. Salão do Conhecimento, [S.l.], ago. 2014. ISSN 2318-2385. Disponível em: <a href="https://www.publicacoeseventos.unijui.edu.br/index.php/salaoconhecimento/article/view/3409">Estudo Comparativo</a>. Acesso em: 30/04/2019.<br>
+
 HOLLAND, J. H. Adaptation in natural and artificial systems. Ann Arbor: University of Michigan Press, 1975.
-KIRKPATRICK, S.; GELATT, C. D.; VECCHI, M. P. Optimization by simulated annealing. Science, v. 220, n. 4598, p. 671-680, Maio 1983.
-CARVALHO, A. P. L. F. Algoritmos Genéticos. Disponível em: <http://conteudo.icmc.usp.br/ pessoas/andre/research/genetic/>. Acesso em: 30/04/2019.
-SOEIRO, F. J. C. P; BECCENERI, J. C.; SILVA Neto, A. J. Recozimento Simulado (Simulated Annealing). Disponível em: <mtc-m16d.sid.inpe.br/archive.cgi/sid.inpe.br/mtc-m19@80/2010/ 01.20.19.25>. Acesso em: 28/04/2019.
-OpenMP. The OpenMP API specification for parallel programming. Disponível em: <https://www.openmp.org/>. Acesso em: 28/04/2019.
-PARADYN. Disponível em: <http://www.paradyn.org/index.html>. Acesso em: 29/04/2019.
+KIRKPATRICK, S.; GELATT, C. D.; VECCHI, M. P. Optimization by simulated annealing. Science, v. 220, n. 4598, p. 671-680, Maio 1983.<br>
+
+CARVALHO, A. P. L. F. Algoritmos Genéticos. Disponível em: <a href="<http://conteudo.icmc.usp.br/ pessoas/andre/research/genetic/>">Algoritmos Genéticos</a>. Acesso em: 30/04/2019.<br>
+
+SOEIRO, F. J. C. P; BECCENERI, J. C.; SILVA Neto, A. J. Recozimento Simulado (Simulated Annealing). Disponível em: <a href="mtc-m16d.sid.inpe.br/archive.cgi/sid.inpe.br/mtc-m19@80/2010/ 01.20.19.25">Recozimento Simulado</a>. Acesso em: 28/04/2019.<br>
+
+OpenMP. The OpenMP API specification for parallel programming. Disponível em: <a href="https://www.openmp.org/">OpenMP</a>. Acesso em: 28/04/2019.<br>
+
+PARADYN. Disponível em: <a href="http://www.paradyn.org/index.html">Paradyn</a>. Acesso em: 29/04/2019.<br>
