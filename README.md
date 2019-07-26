@@ -3,7 +3,7 @@ Projeto ICV para desenvolvimento e aprendizagem de computação paralela utiliza
 
 <a href="#objetivos">Objetivos</a><br>
 <a href="#metodologia">Metodologia</a><br>
-<a href="#apostila">Apostila</a><br>
+<a href="/apostila/#">Apostila</a><br>
 <a href="#referencia">Referências</a><br>
 
 <div id="objetivos"></div>
@@ -51,12 +51,6 @@ A mecânica estatística é a disciplina central da física da matéria condensa
 Neste projeto serão desenvolvidos programas que farão uso de algoritmos genéticos e de recozimento simulado, visando à análise de trechos críticos de processamento. A paralelização de algoritmos deve priorizar os trechos de código de maior consumo de processamento. A análise de desempenho de programas pode ser realizada por ferramentas como o próprio Visual Studio, em sua versão Professional ou superior, e o Paradyn. Ambas as ferramentas analisam a execução do programa apontando os trechos de código onde a paralelização pode vir a trazer redução de tempo de execução.
 Após a análise de desempenho das aplicações desenvolvidas será estudada a biblioteca OpenMP. Em paralelo ao estudo da biblioteca uma apostila será construída e posteriormente disponibilizada aos acadêmicos do curso de ciência da computação. Esta apostila irá ter como objetivo apresentar os conceitos e funções necessárias para a compreensão e uso da biblioteca OpenMP.
 Posteriormente os programas desenvolvidos serão paralelizados, nos trechos apontados pela análise de desempenho, usando a biblioteca estudada. Por fim as implementações sequenciais e paralelas serão avaliadas quanto à qualidade dos resultados obtidos e o tempo de execução.
-
-
-<div id="apostila"></div>
-
-# APOSTILA
-
 
 <div id="referencia"></div>
 
