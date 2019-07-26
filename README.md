@@ -3,7 +3,7 @@ Projeto ICV para desenvolvimento e aprendizagem de computação paralela utiliza
 
 <a href="#objetivos">Objetivos</a><br>
 <a href="#metodologia">Metodologia</a><br>
-<a href="/apostila/#">Apostila</a><br>
+<a href="https://github.com/Daniel-Boll/Apostila-OpenMP/tree/master/Apostila">Apostila</a><br>
 <a href="#referencia">Referências</a><br>
 
 <div id="objetivos"></div>
