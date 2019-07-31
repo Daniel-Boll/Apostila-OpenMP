@@ -20,8 +20,8 @@ A seguinte apostila irá compreender os seguintes tópicos
 
   OpenMP é uma API, portável, baseada no modelo de programação paralela de memória compartilhada para arquiteturas de múltiplos processadores. 
   OpenMP está disponível para uso com os compiladores C/C++ e Fortran, podendo ser executado em ambientes Unix e Windows (Sistemas Multithreads)(UNICAMP, 2014).
-  
-<div id="1.2">Início com OpenMP</div>
+
+<div id="1.2"></div>
 
 ### Início com OpenMP
 
