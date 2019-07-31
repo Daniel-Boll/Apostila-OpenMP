@@ -71,5 +71,5 @@ Hello World
 <div id="4"></div>
 
 ## Referências
-[0] https://www.cenapad.unicamp.br/servicos/treinamentos/apostilas/apostila_openmp.pdf
-[1] https://www.ibm.com/developerworks/br/aix/library/au-aix-openmp-framework/index.html
+[0] https://www.cenapad.unicamp.br/servicos/treinamentos/apostilas/apostila_openmp.pdf 30/07 22:00h <br>
+[1] https://www.ibm.com/developerworks/br/aix/library/au-aix-openmp-framework/index.html 30/07 22:00h
