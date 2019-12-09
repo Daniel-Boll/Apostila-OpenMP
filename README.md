@@ -65,7 +65,7 @@ KIRKPATRICK, S.; GELATT, C. D.; VECCHI, M. P. Optimization by simulated annealin
 
 [3] CARVALHO, A. P. L. F. Algoritmos Genéticos. Disponível em: <a href="<http://conteudo.icmc.usp.br/ pessoas/andre/research/genetic/>">Algoritmos Genéticos</a>. Acesso em: 30/04/2019.<br>
 
-[4] SOEIRO, F. J. C. P; BECCENERI, J. C.; SILVA Neto, A. J. Recozimento Simulado (Simulated Annealing). Disponível em: <a href="mtc-m16d.sid.inpe.br/archive.cgi/sid.inpe.br/mtc-m19@80/2010/ 01.20.19.25">Recozimento Simulado</a>. Acesso em: 28/04/2019.<br>
+[4] SOEIRO, F. J. C. P; BECCENERI, J. C.; SILVA Neto, A. J. Recozimento Simulado (Simulated Annealing). Disponível em: <a href="mtc-m16d.sid.inpe.br/archive.cgi/sid.inpe.br/mtc-m19@80/2010/01.20.19.25">Recozimento Simulado</a>. Acesso em: 28/04/2019.<br>
 
 [5] OpenMP. The OpenMP API specification for parallel programming. Disponível em: <a href="https://www.openmp.org/">OpenMP</a>. Acesso em: 28/04/2019.<br>
 
